@@ -6,7 +6,7 @@
     "source-directories": [
         "."
     ],
-    "exposed-modules": [],
+    "exposed-modules": ["ElmDep1"],
     "dependencies": {
         "elm-lang/core": "5.1.1 <= v < 6.0.0",
         "colinbankier/elm-dep-2": "1.0.0 <= v < 2.0.0"
