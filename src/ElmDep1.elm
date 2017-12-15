@@ -1,4 +1,5 @@
 module ElmDep1 exposing (hello)
+import ElmDep2
 
 hello : String -> String
 hello name =
