@@ -1,4 +1,4 @@
-module ElmDep1 exposing (hello)
+module ElmDep1 exposing (..)
 import ElmDep2
 
 hello : String -> String
